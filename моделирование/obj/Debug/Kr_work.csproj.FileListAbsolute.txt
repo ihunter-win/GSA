@@ -1,0 +1,21 @@
+C:\Users\zhelo\OneDrive\Документы\c#\Kr_work\bin\Debug\Kr_work.exe.config
+C:\Users\zhelo\OneDrive\Документы\c#\Kr_work\bin\Debug\Kr_work.exe
+C:\Users\zhelo\OneDrive\Документы\c#\Kr_work\bin\Debug\Kr_work.pdb
+C:\Users\zhelo\OneDrive\Документы\c#\Kr_work\obj\Debug\Kr_work.csproj.AssemblyReference.cache
+C:\Users\zhelo\OneDrive\Документы\c#\Kr_work\obj\Debug\Kr_work.Form1.resources
+C:\Users\zhelo\OneDrive\Документы\c#\Kr_work\obj\Debug\Kr_work.Properties.Resources.resources
+C:\Users\zhelo\OneDrive\Документы\c#\Kr_work\obj\Debug\Kr_work.csproj.GenerateResource.cache
+C:\Users\zhelo\OneDrive\Документы\c#\Kr_work\obj\Debug\Kr_work.csproj.CoreCompileInputs.cache
+C:\Users\zhelo\OneDrive\Документы\c#\Kr_work\obj\Debug\Kr_work.exe
+C:\Users\zhelo\OneDrive\Документы\c#\Kr_work\obj\Debug\Kr_work.pdb
+C:\Users\zhelo\OneDrive\Рабочий стол\Kr_work\bin\Debug\Kr_work.exe.config
+C:\Users\zhelo\OneDrive\Рабочий стол\Kr_work\bin\Debug\Kr_work.exe
+C:\Users\zhelo\OneDrive\Рабочий стол\Kr_work\bin\Debug\Kr_work.pdb
+C:\Users\zhelo\OneDrive\Рабочий стол\Kr_work\obj\Debug\Kr_work.csproj.AssemblyReference.cache
+C:\Users\zhelo\OneDrive\Рабочий стол\Kr_work\obj\Debug\Kr_work.Form1.resources
+C:\Users\zhelo\OneDrive\Рабочий стол\Kr_work\obj\Debug\Kr_work.Properties.Resources.resources
+C:\Users\zhelo\OneDrive\Рабочий стол\Kr_work\obj\Debug\Kr_work.csproj.GenerateResource.cache
+C:\Users\zhelo\OneDrive\Рабочий стол\Kr_work\obj\Debug\Kr_work.csproj.CoreCompileInputs.cache
+C:\Users\zhelo\OneDrive\Рабочий стол\Kr_work\obj\Debug\Kr_work.exe
+C:\Users\zhelo\OneDrive\Рабочий стол\Kr_work\obj\Debug\Kr_work.pdb
+C:\Users\zhelo\OneDrive\Рабочий стол\Kr_work\obj\Debug\Kr_work.csproj.SuggestedBindingRedirects.cache
